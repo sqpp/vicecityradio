@@ -1,6 +1,6 @@
-# Vice City Modern
+# Vice City Radio [dot] COM Remake
 
-A modern, responsive reimagining of the classic GTA **Vice City Radio** web site, built as a **Vue 3 + Vue Router**, styled with **Tailwind CSS 4+** and bundled with **Vite**.
+A remake of classic GTA **Vice City Radio** web site, built as a **Vue 3 + Vue Router**, styled with **Tailwind CSS 4+** and bundled with **Vite**.
 
 ## Tech stack
 
