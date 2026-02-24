@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connectedData station="fever">
+  <timingList>
+    <cd index="1" frames="105000" />
+    <cd index="2" frames="115000" />
+    <cd index="3" frames="125000" />
+    <cd index="4" frames="135000" />
+    <cd index="5" frames="145000" />
+    <cd index="6" frames="155000" />
+    <cd index="7" frames="165000" />
+  </timingList>
+
+  <dataList>
+    <entry
+      id="!ATTRIBUTES"
+      artistname="Fever"
+      albumname="Vice City O.S.T. - Volume 6"
+      bonusmessage="You’ve unlocked the Fever ConnecteD extras."
+      cheatcode=""
+    />
+
+    <entry
+      id="1"
+      type="webpage"
+      text="Vice City desktops and wallpapers"
+      url="/vicecity/desktops/index.html"
+      fontsize="14"
+    />
+  </dataList>
+
+</connectedData>
+

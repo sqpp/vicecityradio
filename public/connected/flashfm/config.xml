@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connectedData station="flashfm">
+  <timingList>
+    <cd index="1" frames="103000" />
+    <cd index="2" frames="113000" />
+    <cd index="3" frames="123000" />
+    <cd index="4" frames="133000" />
+    <cd index="5" frames="143000" />
+    <cd index="6" frames="153000" />
+    <cd index="7" frames="163000" />
+  </timingList>
+
+  <dataList>
+    <entry
+      id="!ATTRIBUTES"
+      artistname="FlashFM"
+      albumname="Vice City O.S.T. - Volume 4"
+      bonusmessage="You’ve unlocked the FlashFM ConnecteD extras."
+      cheatcode=""
+    />
+
+    <entry
+      id="1"
+      type="webpage"
+      text="Vice City desktops and wallpapers"
+      url="/vicecity/desktops/index.html"
+      fontsize="14"
+    />
+  </dataList>
+
+</connectedData>
+

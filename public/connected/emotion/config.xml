@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connectedData station="emotion">
+  <timingList>
+    <cd index="1" frames="102000" />
+    <cd index="2" frames="112000" />
+    <cd index="3" frames="122000" />
+    <cd index="4" frames="132000" />
+    <cd index="5" frames="142000" />
+    <cd index="6" frames="152000" />
+    <cd index="7" frames="162000" />
+  </timingList>
+
+  <dataList>
+    <entry
+      id="!ATTRIBUTES"
+      artistname="Emotion"
+      albumname="Vice City O.S.T. - Volume 3"
+      bonusmessage="You’ve unlocked the Emotion ConnecteD extras."
+      cheatcode="A 2222"
+    />
+
+    <entry
+      id="1"
+      type="webpage"
+      text="Vice City desktops and wallpapers"
+      url="/vicecity/desktops/index.html"
+      fontsize="14"
+    />
+  </dataList>
+
+</connectedData>
+
